@@ -12,5 +12,3 @@ multiplicacion(A,B,C):- C is A * B.
 
 division(a,b,c).
 division(A,B,C):- C is A / B.
-
-hola
